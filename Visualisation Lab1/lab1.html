@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<script type='text/javascript' src='https://d3js.org/d3.v4.min.js'></script>
+		
+  <link rel="stylesheet" href="index.css">
+<script type='text/javascript' src="movie.js"></script>
+<script type='text/javascript' src="hist.js"></script>
+<script type='text/javascript' src="graph.js"></script>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>Page Title</title>
+
+</head>
+
+
+
+<center>
+<h1>MOVIES DATASET</h1>
+</center>
+
+<ul>
+  <li><a href="#country" onclick="country()">Country</a></li>
+  <li><a href="#genre" onclick="genre()">Genre</a></li>
+  <li><a href="#language" onclick="language()">Language</a></li>
+  <li><a href="#production" onclick="production()">Production</a></li>
+  <li><a href="#rated" onclick="rated()">Rated</a></li>
+  <li><a href="#responsibilty" onclick="resp()">Responsibility</a></li>
+  <li><a class="active" href="#Runtime" onclick="runtime()">Runtime</a></li>
+  <li><a href="#year" onclick="year()">Year</a></li>
+  <li><a href="#imdbRating" onclick="imdb()">Imdb Rating</a></li>
+  <li><a href="#popularity" onclick="popularity()">Popularity</a></li>
+  <li><a href="#totalVotes" onclick="totalVotes()">Total Votes</a></li>
+  <li><a href="#budget" onclick="budget()">Budget</a></li>
+  
+
+
+
+</ul>
+<center>
+<div class="slidecontainer" id="slider">
+  <input type="range" min="-30" max="0" value="-15" class="slider" id="myRange">
+  
+</div>
+<div class="graph" id= "barGraph"></div>
+<div class="hist" id= "hist"></div>
+
+</center>
+
+
+<style >
+  body {
+  background-image: url('qwe.png');
+  background-repeat: no-repeat;
+  background-size: cover;
+}}
+
+</style>
+ 
+
+</body>
+</html>

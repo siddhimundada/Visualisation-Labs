@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<script type='text/javascript' src='https://d3js.org/d3.v4.min.js'></script>
+  <link rel="stylesheet" href="static/style.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/d3-tip/0.7.1/d3-tip.min.js"></script>
+  <meta charset="utf-8">
+  <script type='text/javascript' src="static/barr.js"></script>
+<link rel="shortcut icon" href="#">
+
+
+  <title>Lab2</title>
+
+</head>
+
+
+<body>
+
+<center>
+<h1>MOVIES DATASET</h1>
+</center>
+<div>
+<ul>
+  <li><a href="#country" onclick="button2()"></a></li>
+</ul>
+</div>
+<div class="dropdown_cont1" style="float: left">
+        <label class="scree_plots" for="scree_plots"></label>
+
+                <select class="dropdown1" id="scree_plots"  onchange ="scree_plots()">
+                    <option value="-1" selected="selected">Scree Plots</option>
+                    <option value="orig">Original Data Scree plot</option>
+                    <option value="rand">Random Sampling Scree Plot</option>
+                    <option value="strat">Stratified Sampling Scree Plot</option>
+                   
+                </select>
+            <label class="mds_cor" for="mds_cor"></label>
+
+                <select class="dropdown2" id="mds_cor"  onchange ="mds_cor()">
+                    <option value="-1" selected="selected">MDS Scatter Plots(Correlation)</option>
+                    <option value="orig">Original Data Scatter plot</option>
+                    <option value="rand">Random Sampling scatter Plot</option>
+                    <option value="strat">Stratified Sampling scatter Plot</option>
+                   
+                </select>
+
+              <label class="mds_euc" for="mds_euc"></label>
+
+                <select class="dropdown3" id="mds_euc"  onchange ="mds_euc()">
+                    <option value="-1" selected="selected">MDS Scatter Plots(Euclidean)</option>
+                    <option value="orig">Original Data Scatter plot</option>
+                    <option value="rand">Random Sampling scatter Plot</option>
+                    <option value="strat">Stratified Sampling scatter Plot</option>
+                   
+                </select>
+                  <label class="pca" for="pca"></label>
+
+
+                <select class="dropdown4" id="pca"  onchange ="pca()">
+                    <option value="-1" selected="selected">PCA Scatter Plots</option>
+                    <option value="orig">Original Data Scatter plot</option>
+                    <option value="rand">Random Sampling scatter Plot</option>
+                    <option value="strat">Stratified Sampling scatter Plot</option>
+                   
+                </select>
+                  <label class="matrix" for="matrix"></label>
+
+                <select class="dropdown5" id="matrix"  onchange="matrix()">
+                    <option value="-1" selected="selected">Scatter Matrix</option>
+                    <option value="orig">Original Data Scatter plot</option>
+                    <option value="rand">Random Sampling scatter Plot</option>
+                    <option value="strat">Stratified Sampling scatter Plot</option>
+                   
+                </select>
+            </div>
+            
+    </div>
+<svg id= "bar" width=800 , height="400"></svg>
+
+
+
+<style >
+  body {
+  background-image: url('static/qwe.png');
+  background-repeat: no-repeat;
+  background-size: cover;
+}}
+
+</style>
+ 
+
+</body>
+</html>

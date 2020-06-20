@@ -1,0 +1,501 @@
+imdbID,Title,Actors,Genre,Country,Language,Production,Rated,Runtime,Year,imdbRating,Responsibility,popularity2,rating,totalVotes,budget2
+tt0056255,Mr. Hobbs Takes a Vacation, Lauri Peters,Comedy,USA,English,20th Century Fox,APPROVED,116,1962,6.9,Screenplay,4.814,6.7,32,4000000
+tt0451079,Horton Hears a Who!, Will Arnett,Animation,USA,English,20th Century Fox,G,86,2008,6.8,Screenplay,11.009,6.3,1704,297138014
+tt2357291,Rio 2, Jemaine Clement,Animation,USA,English,20th Century Fox,G,101,2014,6.3,Screenplay,14.261,6.3,1763,500188435
+tt1392197,Marmaduke, Christopher Mintz-Plasse,Comedy,USA,English,20th Century Fox,PG,87,2010,4.2,Comic,10.858,5.1,355,83761844
+tt1067774,Monte Carlo, Cory Monteith,Adventure,USA,English,20th Century Fox,PG,109,2011,5.8,Screenplay,10.324,6.2,1171,39667665
+tt1762399,Walking with Dinosaurs 3D, John Leguizamo,Animation,"USA,UK,Australia",English,20th Century Fox,PG,87,2013,5.2,Screenplay,10.772,5.5,205,126546518
+tt0438097,Ice Age: The Meltdown, Seann William Scott,Animation,USA,English,20th Century Fox,PG,91,2006,6.8,Screenplay,17.425,6.6,5678,660940780
+tt0434215,Flicka, Ryan Kwanten,Adventure,"USA,UK",English,20th Century Fox,PG,95,2006,6.2,Screenplay,6.65,6.5,121,21000000
+tt1053810,The Big Year, Stacey Scowley,Comedy,USA,English,20th Century Fox,PG,100,2011,6.2,Screenplay,26.05,5.8,383,7448385
+tt2692250,Night at the Museum: Secret of the Tomb, Steve Coogan,Adventure,"UK,USA",English,20th Century Fox,PG,98,2014,6.2,Screenplay,23.12,6.2,3467,349424282
+tt0121765,Star Wars: Episode II - Attack of the Clones, Christopher Lee,Action,USA,English,20th Century Fox,PG,142,2002,6.6,Screenplay,19.262,6.5,7072,649398328
+tt1027718,Wall Street: Money Never Sleeps, Carey Mulligan,Drama,USA,English,20th Century Fox,PG-13,133,2010,6.2,characters,8.861,6,785,134748021
+tt0421729,Big Momma's House 2, Zachary Levi,Comedy,USA,English,20th Century Fox,PG-13,99,2006,4.6,characters,27.92,5.6,777,138259062
+tt2726560,The Longest Ride, Jack Huston,Drama,USA,English,20th Century Fox,PG-13,123,2015,7.1,Novel,19.363,7.5,1870,63013281
+tt2226597,The Mountain Between Us, Dermot Mulroney,Action,USA,English,20th Century Fox,PG-13,112,2017,6.4,Novel,10.353,6.5,1211,62832209
+tt0133152,Planet of the Apes, Michael Clarke Duncan,Action,USA,English,20th Century Fox,PG-13,119,2001,5.7,Novel,12.796,5.7,2127,362211740
+tt0311113,Master and Commander: The Far Side of the World, Edward Woodall,Action,USA,"English,French",20th Century Fox,PG-13,138,2003,7.4,Novel,19.163,7.1,1453,212011111
+tt0117509,Romeo + Juliet, Harold Perrineau,Drama,USA,English,20th Century Fox,PG-13,120,1996,6.8,play,12.142,6.8,2672,147298761
+tt0230030,Bedazzled, Miriam Shor,Comedy,"USA,Germany","English,Spanish",20th Century Fox,PG-13,93,2000,6,Screenplay,10.534,5.8,850,90383208
+tt0316732,Taxi, Jennifer Esposito,Action,"USA,France","English,Spanish",20th Century Fox,PG-13,97,2004,4.4,Screenplay,31.617,4.9,433,36609966
+tt2582846,The Fault in Our Stars, Laura Dern,Drama,USA,English,20th Century Fox,PG-13,126,2014,7.8,Screenplay,15.497,7.6,7120,307166834
+tt0462538,The Simpsons Movie, Yeardley Smith,Animation,USA,English,20th Century Fox,PG-13,87,2007,7.4,Screenplay,14.193,6.9,4458,527068851
+tt1430132,The Wolverine, Hiroyuki Sanada,Action,"USA,UK,Australia,Japan","English,Japanese",20th Century Fox,PG-13,126,2013,6.7,Screenplay,4.242,6.3,6070,415440673
+tt0287978,Daredevil, Michael Clarke Duncan,Action,USA,"English,Italian",20th Century Fox,PG-13,103,2003,5.3,Screenplay,13.191,5.1,2788,179179718
+tt0467197,Max Payne, Ludacris,Action,"Canada,USA",English,20th Century Fox,PG-13,100,2008,5.4,Screenplay,11.095,5.2,1014,85416905
+tt0489099,Jumper, Diane Lane,Action,"USA,Canada","English,Italian,Japanese,Mandarin",20th Century Fox,PG-13,88,2008,6.1,Screenplay,11.525,6,3129,222231186
+tt1270798,X-Men: First Class, Bill Milner,Action,"USA,UK","English,German,French,Spanish",20th Century Fox,PG-13,131,2011,7.8,Screenplay,1.029,7.2,8060,353624124
+tt3659388,The Martian, Jeff Daniels,Adventure,"UK,USA","English,Mandarin",20th Century Fox,PG-13,144,2015,8,Screenplay,26.137,7.7,12011,630161890
+tt1974420,Rules Don't Apply, Ivar Brogger,Comedy,USA,English,20th Century Fox,PG-13,127,2016,5.7,Screenplay,7.993,5.9,240,3885342
+tt1628841,Independence Day: Resurgence, Bill Pullman,Action,USA,"English,Mandarin",20th Century Fox,PG-13,120,2016,5.2,Screenplay,16.373,5.1,3853,389681935
+tt1877832,X-Men: Days of Future Past, Jennifer Lawrence,Action,"USA,UK,Canada","English,French",20th Century Fox,PG-13,132,2014,8,Screenplay,33.764,7.5,9883,747862775
+tt0303933,Drumline, Leonard Roberts,Comedy,USA,English,20th Century Fox,PG-13,118,2002,5.7,story,7.949,6.2,169,57588485
+tt0118589,Glitter, Tia Texada,Drama,USA,English,20th Century Fox,PG-13,104,2001,2.2,story,2.375,3.7,57,5271666
+tt1606378,A Good Day to Die Hard, Mary Elizabeth Winstead,Action,USA,"English,Russian,Hindi",20th Century Fox,R,98,2013,5.3,characters,14.811,5.2,4393,304654182
+tt1424381,Predators, Walton Goggins,Action,USA,"English,Spanish",20th Century Fox,R,107,2010,6.4,characters,16.367,6,1938,126248813
+tt0250797,Unfaithful, Olivier Martinez,Drama,"USA,Germany,France","English,French",20th Century Fox,R,124,2002,6.7,Movie,11.104,6.4,526,119137784
+tt0120681,From Hell, Robbie Coltrane,Horror,USA,English,20th Century Fox,R,122,2001,6.8,Novel,11.258,6.6,1408,74558115
+tt0119223,Great Expectations, Chris Cooper,Drama,USA,"English,French",20th Century Fox,R,111,1998,6.8,Novel,24.995,6.6,244,55494066
+tt0099423,Die Hard 2, Reginald VelJohnson,Action,USA,"English,Spanish",20th Century Fox,R,124,1990,7.1,Novel,12.723,6.8,2926,240031094
+tt0137523,Fight Club, Zach Grenier,Drama,"USA,Germany",English,20th Century Fox,R,139,1999,8.8,Novel,27.603,8.4,16043,100853753
+tt0443453,Borat: Cultural Learnings of America for Make Benefit Glorious Nation of Kazakhstan, Chester,Comedy,"USA,UK",English,20th Century Fox,R,84,2006,7.3,Screenplay,15.606,6.6,2566,261572744
+tt2305051,Wild, Keene McRae,Adventure,USA,English,20th Century Fox,R,115,2014,7.1,Screenplay,10.702,7,1438,52501541
+tt0265208,The Girl Next Door, James Remar,Comedy,USA,English,20th Century Fox,R,109,2004,6.7,story,16.258,6.4,1475,31635150
+tt3416744,The End of the Tour, Jason Segel,Biography,USA,English,A24 Films,R,106,2015,7.3,Screenplay,6.466,7.1,319,3002884
+tt1124039,Echelon Conspiracy, Jonathan Pryce,Action,USA,English,AfterDark Films,PG-13,105,2009,5.8,Screenplay,7.285,5.5,160,2186782
+tt0079227,Good Guys Wear Black, Lloyd Haynes,Action,USA,English,American Cinema,PG,95,1978,5,Screenplay,2.899,5.9,24,18300000
+tt0094701,Bad Dreams, Dean Cameron,Horror,USA,English,Anchor Bay Entertainment,R,80,1988,5.6,story,3.76,5.5,43,9797098
+tt2631186,Baahubali: The Beginning, Tamannaah Bhatia,Action,India,Hindi,Arka Media Works,NOT RATED,159,2015,8.2,story,7.043,7.3,226,100000000
+tt0138704,Pi, Pamela Hart,Drama,USA,English,Artisan,R,84,1998,7.4,story,13.732,7.1,1075,3221152
+tt0151582,The Minus Man, Dennis Haysbert,Crime,USA,English,Artisan Entertainment,R,111,1999,6.2,Novel,3.068,6.2,30,370668
+tt0164181,Stir of Echoes, Illeana Douglas,Horror,USA,English,Artisan Entertainment,R,99,1999,7,Novel,8.925,6.6,551,21133087
+tt2800038,Atlas Shrugged: Who Is John Galt?, Greg Germann,Drama,USA,English,Atlas Distribution,PG-13,99,2014,4.4,Screenplay,2.958,3.6,30,846704
+tt1727770,Absolutely Anything, Rob Riggle,Comedy,"UK,USA","English,French",Atlas Distribution,R,85,2015,6,Screenplay,7.868,5.7,680,7200039
+tt0169102,Lagaan: Once Upon a Time in India, Paul Blackthorne,Adventure,India,"Hindi,English",B4U Entertainment,PG,224,2001,8.2,story,7.345,7.4,230,8100000
+tt1179933,10 Cloverfield Lane, Douglas M. Griffin,Drama,USA,English,Bad Robot Productions,PG-13,103,2016,7.2,Screenplay,15.029,6.9,4555,108286421
+tt1334470,Raavan, Vikram,Action,India,Hindi,Big Cinemas,NOT RATED,130,2010,5.4,Screenplay,2.157,4.3,19,4200000
+tt3203606,Trumbo, John Getz,Biography,USA,English,Bleecker Street Media,R,124,2015,7.5,Book,7.744,7.2,867,8235661
+tt3411444,Ferdinand, Colin H. Murphy,Animation,USA,English,Blue Sky Studio/20th Century Fox,PG,108,2017,6.7,Book,14.004,7.1,1394,294764262
+tt1178665,A Walk in the Woods, Mary Steenburgen,Adventure,USA,English,Broad Green Pictures,R,104,2015,6.3,Screenplay,6.316,5.9,395,35991087
+tt0101414,Beauty and the Beast, Angela Lansbury,Animation,USA,"English,French",Buena Vista,G,84,1991,8,Animation,23.184,7.7,5607,377350553
+tt0117110,Muppet Treasure Island, Kevin Bishop,Action,USA,English,Buena Vista,G,99,1996,6.9,Novel,8.037,6.4,160,34327391
+tt0317219,Cars, Larry the Cable Guy,Animation,USA,"English,Italian,Japanese",Buena Vista,G,117,2006,7.2,Original story ,72.09,6.7,7360,461983149
+tt0361089,Valiant, Jim Broadbent,Animation,"UK,USA",English,Buena Vista,G,76,2005,5.6,story,9.633,5.3,436,61746888
+tt0116250,Evita, Jimmy Nail,Biography,USA,English,Buena Vista,PG,135,1996,6.3,Book,6.524,6.2,224,141047179
+tt0363771,"The Chronicles of Narnia: The Lion, the Witch and the Wardrobe", Anna Popplewell,Adventure,"USA,UK","English,German",Buena Vista,PG,143,2005,6.9,Screenplay,21.776,7,5621,745013115
+tt0492956,The Game Plan, Roselyn Sanchez,Comedy,USA,English,Buena Vista,PG,110,2007,6.2,Screenplay,8.806,6.2,940,147880543
+tt0467110,Underdog, Patrick Warburton,Action,USA,English,Buena Vista,PG,84,2007,4.8,Screenplay,11.53,4.8,322,65270477
+tt0110123,In the Army Now, David Alan Grier,Comedy,USA,English,Buena Vista,PG,91,1994,4.8,story,7.923,4.7,95,28881266
+tt0190590,"O Brother, Where Art Thou?", John Goodman,Adventure,"UK,France,USA",English,Buena Vista,PG-13,107,2000,7.8,Poem,13.085,7.3,1931,71868327
+tt0120591,Armageddon, Liv Tyler,Action,USA,English,Buena Vista,PG-13,151,1998,6.6,Screenplay,17.987,6.6,4199,553799566
+tt0020960,Hell's Angels, John Darrow,Drama,USA,"English,German,French",Caddo,PASSED,127,1930,7.8,story,3.69,6.6,30,8000000
+tt0091757,Pirates, Olu Jacobs,Adventure,France,"English,French,Spanish",Cannon Film Distributors,PG-13,121,1986,6.1,Adaptation,5.74,6.3,85,1641825
+tt3508840,The Assassin, Satoshi Tsumabuki,Action,"China,France","Mandarin,French",Central Motion Pictures Corporation,NOT RATED,105,2015,6.3,Screenplay,7.338,6.4,228,632542
+tt3203620,The Dinner, Charlie Plummer,Crime,USA,English,Chubbco Film Co.,R,120,2017,4.5,Novel,6.371,4.2,147,2492001
+tt0047478,Seven Samurai, Yukiko Shimazaki,Adventure,Japan,Japanese,Columbia Pictures,NOT RATED,207,1954,8.7,Screenplay,17.379,8.4,1452,271841
+tt0243585,Stuart Little 2, Jonathan Lipnicki,Animation,USA,English,Columbia Pictures,PG,77,2002,5.4,Book,11.742,5.6,1255,169956806
+tt1222817,Zookeeper, Ken Jeong,Comedy,USA,English,Columbia Pictures,PG,102,2011,5.2,Screenplay,13.437,5.3,867,169852759
+tt0257076,S.W.A.T., LL Cool J,Action,USA,"English,Spanish,French",Columbia Pictures,PG-13,117,2003,6,characters,13.289,5.9,1217,116643346
+tt0145487,Spider-Man, James Franco,Action,USA,English,Columbia Pictures,PG-13,121,2002,7.3,Comic,23.412,7,9628,821708551
+tt2283362,Jumanji: Welcome to the Jungle, Karen Gillan,Action,USA,English,Columbia Pictures,PG-13,119,2017,7.2,Screenplay,20.743,6.7,7087,962119864
+tt0280590,Mr. Deeds, Allen Covert,Comedy,USA,English,Columbia Pictures,PG-13,96,2002,5.8,Screenplay,11.774,5.7,1144,171269535
+tt0255798,The Animal, Edward Asner,Comedy,USA,English,Columbia Pictures,PG-13,84,2001,4.8,story,8.25,4.6,562,84772742
+tt0190865,Vertical Limit, Augie Davis,Action,"USA,Germany",English,Columbia Pictures,PG-13,124,2000,5.9,story,13.14,5.9,468,215663859
+tt0061809,In Cold Blood, Paul Stewart,Biography,USA,English,Columbia Pictures,R,134,1967,8,Book,5.208,7.8,137,13007551
+tt0067328,The Last Picture Show, Ben Johnson,Drama,USA,English,Columbia Pictures,R,118,1971,8.1,Screenplay,18.703,7.8,238,29133000
+tt0838283,Step Brothers, Richard Jenkins,Comedy,USA,"English,Spanish",Columbia Pictures,R,98,2008,6.9,Screenplay,11.435,6.5,1698,128107642
+tt0076299,The Last Wave, Frederick Parslow,Drama,Australia,"English,Italian",Cowboy Pictures,PG,106,1977,7.2,Screenplay,2.859,6.9,60,1258000
+tt0108148,Iron Monkey, Sze-Man Tsang,Action,China,Mandarin,Dimension Films,PG-13,85,1993,7.6,Adaptation,11.583,7.6,125,14681661
+tt0259484,Paid in Full, Esai Morales,Action,USA,English,Dimension Films,R,97,2002,7.1,Screenplay,6.303,6.9,95,3090862
+tt0116367,From Dusk Till Dawn, Juliette Lewis,Action,USA,"English,Spanish",Dimension Films,R,108,1996,7.3,story,16.928,7,2942,25836616
+tt0119137,Flubber, Ted Levine,Comedy,USA,English,Disney,PG,93,1997,5.2,Screenplay,12.304,5.5,1230,177977226
+tt0478970,Ant-Man, Corey Stoll,Action,USA,English,Disney/Marvel,PG-13,117,2015,7.3,Screenplay,39.651,7.1,11664,519311965
+tt0212720,A.I. Artificial Intelligence, Jake Thomas,Adventure,USA,English,Dreamworks,PG-13,146,2001,7.1,Screenplay,15.987,7,3443,235926552
+tt1776196,Fullmetal Alchemist: The Sacred Star of Milos, Matthew Mercer,Animation,Japan,Japanese,Eleven Arts,NOT RATED,110,2011,7.1,Adaptation,6.737,6.8,98,7401480
+tt0923811,Evangelion: 1.0 You Are (Not) Alone, Yuriko Yamaguchi,Animation,Japan,Japanese,Eleven Arts,PG-13,98,2007,7.8,Screenplay,10.02,7.6,224,223839
+tt0077413,Death on the Nile, Bette Davis,Crime,UK,"English,French,German",EMI Films Ltd.,PG,140,1978,7.3,Screenplay,9.787,7,240,14560084
+tt0086374,Strange Invaders, Michael Lerner,Horror,USA,English,EMI Productions,PG,92,1983,5.5,Screenplay,2.75,5,27,1362303
+tt2224317,Lootera, Adil Hussain,Drama,India,Hindi,Eros,NOT RATED,136,2013,7.3,Screenplay,2.544,6.8,40,5100000
+tt2178470,Yeh Jawaani Hai Deewani, Kalki Koechlin,Comedy,India,"Hindi,English",Eros International,NOT RATED,160,2013,7,Movie,5.75,7.4,125,46000000
+tt2635622,The Attacks of 26/11, Ferzad Jehani,Action,India,Hindi,Eros International,NOT RATED,116,2013,6.9,Movie,2.45,6.8,15,18000000
+tt0088678,The Adventures of Mark Twain, Chris Ritchie,Animation,USA,English,Eureka Entertainment Ltd,G,86,1985,7.5,Screenplay,2.257,6.8,33,849915
+tt0250371,The Other Side of Heaven, Nathaniel Lees,Adventure,USA,English,Excel Entertainmen,PG,113,2001,6.5,Book,2.233,6.4,25,4720371
+tt3132714,Marie's Story, Noémie Churlet,Biography,France,French,Film Movements,NOT RATED,95,2014,7.5,Screenplay,3.941,7.4,44,11720
+tt0102494,My Own Private Idaho, William Richert,Drama,USA,"English,Italian,German",Fine Line Features,R,104,1991,7.1,Screenplay,29.455,7.1,425,6401336
+tt2980516,The Theory of Everything, Sophie Perry,Biography,"UK,Japan,USA","English,French",Focus Features,PG-13,123,2014,7.7,Screenplay,13.671,7.9,6320,123726688
+tt0241025,Vanity Fair, Ruth Sheen,Drama,"USA,UK,India","English,French,German",Focus Features,PG-13,141,2004,6.2,Screenplay,9.685,5.7,158,16123851
+tt3416532,A Monster Calls, Toby Kebbell,Animation,"UK,Spain,USA",English,Focus Features,PG-13,108,2016,7.5,Screenplay,9.368,7.1,1878,47309313
+tt1814621,Admission, Dan Levy,Comedy,USA,English,Focus Features,PG-13,107,2013,5.7,Screenplay,7.14,5.5,381,18000000
+tt0810819,The Danish Girl, Adrian Schiller,Biography,"UK,USA,Germany,Belgium","English,French,German",Focus Features,R,119,2015,7.1,Book,10.645,7.6,3592,64191523
+tt0783233,Atonement, Julia West,Drama,"UK,France,USA","English,French",Focus Features,R,123,2007,7.8,Novel,15.683,7.6,1967,129266061
+tt1440728,The American, Björn Granath,Crime,"USA,UK","English,Italian",Focus Features,R,105,2010,6.3,Screenplay,10.563,5.8,683,65464324
+tt0796368,Talk to Me, Mike Epps,Biography,USA,English,Focus Features,R,118,2007,7.4,Screenplay,4.291,7,59,4778376
+tt0456020,Waist Deep, Johnny C. Pruitt,Action,USA,English,Focus Features,R,97,2006,5.9,Screenplay,6.984,6.3,85,21353303
+tt0253474,The Pianist, Ed Stoppard,Biography,"France,Germany,UK,USA","English,German,French",Focus Features,R,150,2002,8.5,Screenplay,12.832,8.3,3891,120072577
+tt1340800,Tinker Tailor Soldier Spy, Péter Kálloy Molnár,Drama,"France,UK,Germany","English,German,French",Focus Features,R,122,2011,7.1,Screenplay,12.036,6.7,1384,80630608
+tt2406566,Atomic Blonde, John Goodman,Action,"Germany,USA","English,German",Focus Features,R,115,2017,6.7,Screenplay,19.398,6.3,3577,95673925
+tt0094890,Cocoon: The Return, Hume Cronyn,Adventure,USA,English,Fox,PG,116,1988,5.3,characters,8.246,5.5,154,25024919
+tt0082484,Quest for Fire, Rae Dawn Chong,Adventure,"Canada,France","English,French",Fox,R,100,1981,7.4,Screenplay,7.03,7.1,209,55260558
+tt1723811,Shame, James Badge Dale,Drama,UK,English,Fox Searchlight,NC-17,101,2011,7.2,Adaptation,13.896,7,1576,17693675
+tt1188996,My Name Is Khan, Kenton Duty,Drama,India,"Hindi,English",Fox Searchlight,PG-13,165,2010,8,Screenplay,6.383,7.9,399,42345360
+tt1781058,Wilson, James Robert Miller,Comedy,USA,English,Fox Searchlight,R,94,2017,5.8,Novel,7.928,5.8,194,653951
+tt0427944,Thank You for Smoking, Mary Jo Smith,Comedy,USA,English,Fox Searchlight,R,92,2005,7.6,Screenplay,10.673,7.2,1106,24793509
+tt1129445,Amelia, Christopher Eccleston,Adventure,"USA,Canada",English,Fox Searchlight Pictures,PG,111,2009,5.8,Book,5.955,5.6,109,19258519
+tt1172233,Whip It, Mary Callaghan Lynch,Drama,USA,English,Fox Searchlight Pictures,PG-13,111,2009,6.9,Screenplay,7.262,6.7,607,16633035
+tt4411596,My Cousin Rachel, Iain Glen,Drama,"UK,USA","English,Italian",Fox Searchlight Pictures,PG-13,106,2017,6,Screenplay,10.079,5.5,327,9200168
+tt1334260,Never Let Me Go, Charlie Rowe,Drama,"UK,USA",English,Fox Searchlight Pictures,R,103,2010,7.2,Novel,9.93,6.8,1270,9455232
+tt0354766,Never Die Alone, Antwon Tanner,Action,USA,English,Fox Searchlight Pictures,R,88,2004,5.7,Novel,3.409,5.6,58,5923000
+tt1033575,The Descendants, Nick Krause,Comedy,USA,English,Fox Searchlight Pictures,R,115,2011,7.3,Screenplay,13.796,6.8,1504,177243185
+tt0970411,City of Ember, Mary Kay Place,Adventure,USA,English,Fox Walden,PG,90,2008,6.5,Screenplay,11.362,6.2,949,17869048
+tt1754811,InAPPropriate Comedy, Adrien Brody,Comedy,USA,English,Freestyle Releasing,R,83,2013,2.9,Adaptation,4.072,3,48,228
+tt1220628,I Hope They Serve Beer in Hell, Yvette Yates,Comedy,USA,English,Freestyle Releasing,R,105,2009,5.3,Novel,3.946,4.9,35,1429299
+tt2576852,The Tale of the Princess Kaguya, Darren Criss,Animation,Japan,Japanese,GKIDS,PG,137,2013,8.1,story,9.475,8.1,646,24186232
+tt0114663,Three Wishes, Seth Mumy,Drama,USA,English,HBO Video,PG,115,1995,6.2,story,2.312,6.2,33,7025496
+tt0090685,Back to School, Keith Gordon,Comedy,USA,English,HBO Video,PG-13,96,1986,6.6,story,8.025,6.3,185,91258000
+tt0912597,Death Note: L Change the World, Tatsuya Fujiwara,Crime,Japan,"Japanese,English",Horipro,NOT RATED,129,2008,6.2,story ,8.639,6,108,30231200
+tt1720182,October Baby, Jennifer Price,Drama,USA,English,IDP/Samuel goldwyn Films,PG-13,107,2011,6.8,story,3.456,6.8,55,5355847
+tt0862467,Valhalla Rising, Maarten Stevenson,Adventure,UK,English,IFC Films,NOT RATED,93,2009,6,Adaptation,11.622,6,567,30638
+tt3577624,A Perfect Day, Mélanie Thierry,Comedy,Spain,"English,Spanish,French",IFC Films,R,106,2015,6.8,adaptation,6.288,6.6,323,1702433
+tt1032825,Love and Other Impossible Pursuits, Charlie Tahan,Drama,USA,English,IFC Films,R,102,2009,6.4,Screenplay,6.61,6.2,218,102000000
+tt2083231,Java Heat, Verdi Solaiman,Action,USA,English,IFC Films,R,104,2013,5.2,Screenplay,2.93,5.3,44,1061
+tt1123373,Detective Dee: Mystery of the Phantom Flame, Bingbing Li,Action,China,"Mandarin,Spanish",Indomina Media,PG-13,119,2010,6.6,Screenplay,9.749,6.7,174,51723285
+tt5247022,Paterson, Rizwan Manji,Comedy,"USA,France,Germany","English,Italian",K5 International,R,118,2016,7.4,Poem,10.793,7,713,2152738
+tt3531824,Nerve, Miles Heizer,Action,USA,English,Keep Your Head,PG-13,96,2016,6.6,Screenplay,13.534,7.1,4520,85241496
+tt3544112,Sing Street, Jack Reynor,Comedy,"UK,USA","English,French",Likely Story,PG-13,106,2016,8,story,9.931,8,1185,13624522
+tt4193394,Indignation, Logan Lerman,Drama,"USA,China","English,Chinese",Likely Story,R,110,2016,6.8,Novel,7.836,6.5,152,3924527
+tt3045616,Mortdecai, Ewan McGregor,Action,"UK,USA",English,Liongate Films,R,107,2015,5.5,Screenplay,11.339,5.4,1640,30418560
+tt0118789,Buffalo '66, Mickey Rourke,Comedy,"USA,Canada",English,Lions Gate,R,110,1998,7.5,Original story ,27.5,7.2,336,2375097
+tt2609758,A Madea Christmas, Eric Lively,Comedy,USA,English,Lionsgate,PG-13,100,2013,4.9,Screenplay,3.068,6.3,61,53396354
+tt1132626,Saw V, Betsy Russell,Horror,"USA,Canada",English,Lionsgate,R,92,2008,5.8,Screenplay,13.213,6.1,1675,113857533
+tt1961175,American Assassin, Chris Webster,Action,USA,English,Lionsgate and CBS Films,R,112,2017,6.2,Screenplay,13.803,6.3,1572,66167951
+tt0109506,The Crow, Michael Wincott,Action,USA,English,LionsGate Entertainment,R,102,1994,7.6,Comic,12.974,7.4,1770,94000000
+tt2215285,Madea's Witness Protection, Doris Roberts,Comedy,USA,English,Lionsgate Films,PG-13,114,2012,4.9,characters,6.561,5.6,81,66899242
+tt1129442,Transporter 3, Robert Knepper,Action,"France,USA","English,French",Lionsgate Films,PG-13,104,2008,6.1,characters,18.154,6,1744,108979549
+tt1588173,Warm Bodies, Rob Corddry,Comedy,"USA,Canada",English,Lionsgate Films,PG-13,98,2013,6.9,Novel,11.183,6.3,4048,116980662
+tt1418377,"I, Frankenstein", Bill Nighy,Action,"USA,Australia",English,Lionsgate Films,PG-13,92,2014,5.1,Screenplay,9.852,5.2,1075,71154592
+tt0935075,Rabbit Hole, Miles Teller,Drama,USA,English,Lionsgate Films,PG-13,91,2010,7,Screenplay,24.245,6.8,287,5129058
+tt1649419,The Impossible, Samuel Joslin,Drama,"Spain,USA","English,Spanish",Lionsgate Films,PG-13,114,2012,7.6,story,12.078,7.2,3552,180274123
+tt1343727,Dredd, Porteus Xandau,Action,"UK,USA,India",English,Lionsgate Films,R,95,2012,7.1,characters,13.84,6.7,2762,41037742
+tt0452625,Good Luck Chuck, Sasha Pieterse,Comedy,"USA,Canada",English,Lionsgate Films,R,96,2007,5.6,Screenplay,8.003,5.7,713,59192128
+tt0929632,Precious, Mariah Carey,Drama,USA,"English,Italian",Lionsgate Films,R,110,2009,7.3,Screenplay,8.739,7.2,745,47536959
+tt1931435,The Big Wedding, Amanda Seyfried,Comedy,USA,"English,Spanish,Chinese",Lionsgate Films,R,89,2013,5.6,Screenplay,11.838,5.8,672,21819348
+tt0443473,The Condemned, Tory Mussett,Action,USA,"English,Spanish,German",Lionsgate Films,R,113,2007,6.1,Screenplay,22.911,5.9,335,8642858
+tt1840309,Divergent, Jai Courtney,Adventure,USA,"English,Spanish",Lionsgate Films/Summit Entertainment,PG-13,139,2014,6.7,Screenplay,16.118,6.9,8153,288747895
+tt3605418,Knock Knock, Aaron Burns,Drama,USA,"English,Spanish",Lionsgate Premiere,R,99,2015,4.9,Screenplay,9.932,5,1437,6341684
+tt0095274,A Handful of Dust, Jackson Kyle,Drama,UK,English,London Weekend Television,PG,118,1988,6.8,Novel,1.89,6.1,12,1561000
+tt0093051,From the Hip, Darren McGavin,Comedy,USA,English,Lorimar Home Video,PG,111,1987,6.2,Screenplay,2.915,5.9,20,9518342
+tt1131724,2:22, Maeve Dermody,Thriller,"Australia,USA",English,Magnolia Pictures,PG-13,98,2017,5.7,Screenplay,11.018,5.8,793,3500000
+tt1456635,Goon, Liev Schreiber,Comedy,"USA,Canada","English,French",Magnolia Pictures,R,92,2011,6.8,Book,7.918,6.5,481,6483963
+tt1709143,The Last Days on Mars, Olivia Williams,Horror,UK,English,Magnolia Pictures,R,98,2013,5.5,Screenplay,6.811,5.3,403,24084
+tt0116322,Flipper, Robert Deacon,Family,USA,English,MCA Universal Home Video,PG,95,1996,5.2,story,7.542,5.4,145,20080020
+tt0107529,Matinee, Omri Katz,Comedy,USA,English,MCA Universal Home Video,PG,99,1993,6.8,story,7.025,6.6,96,9532895
+tt0099141,Bird on a Wire, Bill Duke,Action,USA,English,MCA Universal Home Video,PG-13,110,1990,5.9,story,11.227,6.1,344,138700000
+tt0101373,At Play in the Fields of the Lord, Aidan Quinn,Drama,USA,English,MCA Universal Home Video,R,189,1991,6.8,Novel,2.135,6.2,18,1345903
+tt0111438,Timecop, Bruce McGill,Action,"Canada,USA,Japan",English,MCA Universal Home Video,R,99,1994,5.8,Screenplay,10.616,5.7,476,101646581
+tt0103671,American Me, Dyana Ortelli,Biography,USA,English,MCA Universal Home Video,R,125,1992,7.2,story,6.682,7.5,59,13
+tt0101540,Cape Fear, Juliette Lewis,Crime,USA,English,MCA/Universal Pictures,R,128,1991,7.3,Novel,12.101,7.2,1370,182300000
+tt0093629,A Nightmare on Elm Street 3: Dream Warriors, Robert Englund,Action,USA,English,Media Home Entertainment,R,96,1987,6.6,story,13.044,6.5,699,44793222
+tt0079489,Love at First Bite, Dick Shawn,Comedy,USA,English,Melvin Simon Productions,PG,96,1979,6.1,Screenplay,3.668,6.1,48,43885000
+tt0026778,A Night at the Opera, Kitty Carlisle,Comedy,USA,"English,Italian",MGM,NOT RATED,96,1935,8,Screenplay,7.442,7.7,200,1
+tt0344854,Arthur and the Invisibles, Penny Balfour,Animation,France,English,MGM,PG,94,2006,6,Book,33.606,6.2,1439,107944236
+tt0479143,Rocky Balboa, Geraldine Hughes,Drama,USA,"English,Spanish",MGM,PG,102,2006,7.2,characters,25.104,6.7,1639,155721132
+tt0358349,Agent Cody Banks 2: Destination London, Cynthia Stevenson,Action,USA,English,MGM,PG,100,2004,4.5,characters,10.402,5.1,284,28818995
+tt0107978,RoboCop 3, Jodi Long,Action,USA,"English,Japanese",MGM,PG-13,104,1993,4,characters,29.734,4.5,507,10696210
+tt0337579,Barbershop 2: Back in Business, Eve,Comedy,USA,English,MGM,PG-13,106,2004,5.7,characters,7.603,5.6,120,65070412
+tt0250494,Legally Blonde, Matthew Davis,Comedy,USA,English,MGM,PG-13,96,2001,6.2,Novel,11.292,6.4,1784,141774679
+tt0120841,Species II, Mykelti Williamson,Action,USA,English,MGM,R,93,1998,4.3,characters,12.902,4.6,261,19165560
+tt1231587,Hot Tub Time Machine, Rob Corddry,Comedy,USA,English,MGM,R,101,2010,6.4,Screenplay,11.668,6,1364,64572262
+tt0145531,Stigmata, Nia Long,Horror,USA,"English,French",MGM,R,103,1999,6.2,story,10.674,6.1,451,50041732
+tt0114287,Rob Roy, Tim Roth,Adventure,"USA,UK",English,MGM Home Entertainment,R,139,1995,6.9,Screenplay,9.844,6.7,269,31596911
+tt0120857,Tea with Mussolini, Maggie Smith,Drama,"Italy,UK","English,Italian",MGM/UA,PG,117,1999,6.9,characters,5.194,6.1,57,21001563
+tt0918927,Doubt, Viola Davis,Drama,USA,English,Miramax,PG-13,104,2008,7.5,Screenplay,9.015,7.2,857,50907234
+tt0115986,The Crow: City of Angels, Iggy Pop,Action,USA,English,Miramax,R,84,1996,4.6,Comic,7.778,5.1,195,17917287
+tt0133751,The Faculty, Josh Hartnett,Horror,USA,English,Miramax,R,104,1998,6.5,story,11.037,6.2,874,40283321
+tt0255477,Pinocchio, Carlo Giuffrè,Comedy,Italy,Italian,Miramax Films,G,108,2002,4.2,Screenplay,7.794,5.8,402,41323171
+tt0182295,Love's Labour's Lost, Kenneth Branagh,Romance,"UK,France,USA",English,Miramax Films,PG,93,2000,6.1,play,3.917,5.5,23,299792
+tt0317198,Bridget Jones: The Edge of Reason, James Faulkner,Comedy,"UK,France,Germany,USA","English,German",Miramax Films,R,108,2004,6,Novel,13.158,6.2,1484,262500000
+tt0258068,The Quiet American, Rade Serbedzija,Drama,"UK,Germany,USA,Australia,France","English,French",Miramax Films,R,101,2002,7.1,Novel,8.869,6.7,133,27674124
+tt0166175,East Is East, Archie Panjabi,Comedy,UK,English,Miramax Films,R,96,1999,6.9,play,6.758,6.6,98,28200000
+tt0117666,Sling Blade, John Ritter,Drama,USA,English,Miramax Films,R,135,1996,8,play,12.424,7.6,377,24444121
+tt1270761,Don't Be Afraid of the Dark, Bailee Madison,Fantasy,"USA,Australia",English,Miramax Films,R,99,2010,5.6,Screenplay,8.972,5.5,541,36993168
+tt1798603,Bad Santa 2, Christina Hendricks,Comedy,USA,English,Miramax/Broad Green,R,92,2016,5.6,characters,8.213,5.2,410,23229371
+tt0093104,Good morning Babilonia, Désirée Nosbusch,Drama,"Italy,France,USA","English,Italian",MK2 Productions,PG-13,117,1987,6.8,Adaptation,1.061,6.2,11,183700
+tt1700844,The Deep Blue Sea, Rachel Weisz,Drama,"UK,Australia",English,Music Box Films,R,98,2011,6.3,play,6.48,5.9,128,1126525
+tt0119683,Les Misérables, Veronika Bendová,Crime,"UK,Germany,USA",English,NCM/Fathom,PG-13,134,1998,7.5,Novel,7.942,7.2,275,14096321
+tt0192255,The Little Vampire, Alice Krige,Adventure,"Germany,USA",English,New Line Cinema,PG,95,2000,5.8,Novel,7.279,6.1,159,13555988
+tt0462346,How to Eat Fried Worms, Austin Rogers,Comedy,USA,English,New Line Cinema,PG,84,2006,5.4,Screenplay,4.084,5.9,46,13022756
+tt0146309,Thirteen Days, Lucinda Jenney,Drama,USA,English,New Line Cinema,PG-13,145,2000,7.3,Book,21.061,7,314,34566746
+tt0266915,Rush Hour 2, Ziyi Zhang,Action,"USA,China","English,Mandarin",New Line Cinema,PG-13,90,2001,6.6,characters,11.602,6.5,1897,347325802
+tt0295178,Austin Powers in Goldmember, Michael York,Action,USA,"English,Japanese,German,French",New Line Cinema,PG-13,94,2002,6.2,characters,11.377,5.9,1699,296655431
+tt0399327,The Man, Luke Goss,Action,"Germany,USA",English,New Line Cinema,PG-13,83,2005,5.5,Screenplay,7.247,5.4,235,12382362
+tt0367479,After the Sunset, Don Cheadle,Action,USA,English,New Line Cinema,PG-13,97,2004,6.3,story,26.001,6.2,340,61347797
+tt0337921,Cellular, Will Beinbrink,Action,"USA,Germany",English,New Line Cinema,PG-13,94,2004,6.5,story,11.141,6.3,953,56422687
+tt5140878,Annabelle: Creation, Brad Greenquist,Horror,USA,"English,Spanish",New Line Cinema,R,109,2017,6.6,characters,20.328,6.5,3090,305092201
+tt0399146,A History of Violence, William Hurt,Crime,"USA,Germany,Canada",English,New Line Cinema,R,96,2005,7.5,Novel,12.519,7.1,1465,60740827
+tt0257360,About Schmidt, Dermot Mulroney,Comedy,USA,English,New Line Cinema,R,125,2002,7.2,Novel,7.625,6.8,588,105834556
+tt0309593,Final Destination 2, David Paetkau,Fantasy,"USA,Canada",English,New Line Cinema,R,90,2003,6.2,Screenplay,11.823,6.1,1962,90426405
+tt0124298,Blast from the Past, Sissy Spacek,Comedy,USA,"English,French,German",New Line Home Entertainment,PG-13,112,1999,6.6,story,9.56,6.4,406,40263020
+tt0116839,Lawnmower Man 2: Beyond Cyberspace, Ely Pouget,Action,USA,English,New Line Home Entertainment,PG-13,93,1996,2.4,story,5.254,2.9,59,2409225
+tt0107254,Jason Goes to Hell: The Final Friday, Steven Williams,Fantasy,USA,English,New Line Home Entertainment,R,87,1993,4.3,story,14.795,4.3,353,15938065
+tt5474042,Half Girlfriend, Vikrant Massey,Drama,India,Hindi,NH Studioz,NOT RATED,135,2017,4.1,Novel,2.43,6,32,12805400
+tt2002718,Machete Kills, Amber Heard,Action,USA,"English,Spanish",Open Road,R,107,2013,5.6,Screenplay,11.463,5.5,1063,15008161
+tt1767382,Silent House, Julia Chan,Drama,"France,USA",English,Open Road Films,R,86,2011,5.3,Movie,6.986,5.2,182,13101672
+tt1601913,The Grey, Dallas Roberts,Action,USA,"English,Spanish",Open Road Films,R,117,2011,6.8,Screenplay,13.317,6.5,2252,77278331
+tt2072233,Sleepless, Dermot Mulroney,Action,USA,English,Open Road Films,R,95,2017,5.6,Screenplay,10.859,5.8,688,32540674
+tt0100143,Miami Blues, Edward Saxon,Comedy,USA,English,Orion Home Video,R,97,1990,6.4,Novel,4.148,5.9,66,9
+tt0099348,Dances with Wolves, Rodney A. Grant,Adventure,"USA,UK",English,Orion Pictures,PG-13,181,1990,8,Screenplay,19.665,7.8,1933,424208848
+tt1242460,We Need to Talk About Kevin, Jasper Newell,Drama,"UK,USA",English,Oscilloscope Pictures,R,112,2011,7.5,Screenplay,10.935,7.6,1282,10765283
+tt1228987,Let Me In, Cara Buono,Drama,"UK,USA",English,Overture Films,R,116,2010,7.2,Screenplay,10.093,6.7,1046,24145613
+tt3717016,After the Ball, Lauren Holly,Comedy,Canada,"English,French,Italian",Pacific Northwest Pictures,NOT RATED,101,2015,5.9,Screenplay,5.965,6.4,145,161820
+tt0120004,The Relic, James Whitmore,Horror,"UK,Germany,Japan,USA",English,Paramount,R,110,1997,5.7,Novel,7.663,5.9,196,33956608
+tt0120324,A Simple Plan, Brent Briscoe,Crime,"UK,Germany,France,USA,Japan",English,Paramount,R,121,1998,7.5,Novel,10.31,7.1,352,16316273
+tt0449467,Babel, Peter Wight,Drama,"France,USA","English,Spanish,French",Paramount Classics,R,143,2006,7.5,Adaptation,12.457,7.1,1852,135330182
+tt0106912,Fire in the Sky, Peter Berg,Biography,USA,English,Paramount Home Video,PG-13,109,1993,6.5,Book,7.318,6.5,202,19724334
+tt0103594,1492: Conquest of Paradise, Loren Dean,Adventure,"France,Spain,USA",English,Paramount Home Video,PG-13,154,1992,6.5,Screenplay,10.519,6.2,344,7191399
+tt0099371,Days of Thunder, Randy Quaid,Action,USA,"English,French",Paramount Home Video,PG-13,107,1990,5.9,story,13.38,6.1,598,157920733
+tt0105327,School Ties, Randall Batinkoff,Drama,USA,"English,French",Paramount Home Video,PG-13,106,1992,6.9,story,9.325,6.4,154,14715067
+tt0087298,Friday the 13th: The Final Chapter, Kimberly Beck,Horror,USA,English,Paramount Home Video,R,91,1984,6,characters,11.55,5.9,464,32980880
+tt0113691,Losing Isaiah, Cuba Gooding Jr.,Drama,USA,English,Paramount Home Video,R,111,1995,6.4,Novel,4.113,6.6,43,7603766
+tt0110146,Intersection, Martin Landau,Drama,USA,English,Paramount Home Video,R,98,1994,5.3,Screenplay,5.502,5.3,68,21355893
+tt0080461,"Bon Voyage, Charlie Brown (and Don't Come Back!!)", Debbie Muller,Animation,USA,"English,French",Paramount Pictures,G,75,1980,7.4,Comic,1.714,6.6,23,2013193
+tt0268397,Jimmy Neutron: Boy Genius, Jeffrey Garcia,Animation,USA,English,Paramount Pictures,G,82,2001,6,story,13.493,5.6,429,80936232
+tt6644200,A Quiet Place, Millicent Simmonds,Drama,USA,English,Paramount Pictures,NOT RATED,95,2018,8.7,Screenplay,28.893,7.3,5675,340677200
+tt0416236,The Spiderwick Chronicles, Sarah Bolger,Adventure,USA,English,Paramount Pictures,PG,96,2008,6.6,Screenplay,12.864,6.4,1293,162839667
+tt1192628,Rango, Ned Beatty,Animation,USA,English,Paramount Pictures,PG,107,2011,7.2,story,11.59,6.6,3344,0
+tt0157472,Clockstoppers, Michael Biehn,Action,USA,English,Paramount Pictures,PG,94,2002,5.2,story,8.762,5,132,38793283
+tt0111280,Star Trek: Generations, LeVar Burton,Action,USA,English,Paramount Pictures,PG,118,1994,6.6,television series,6.975,6.5,655,120000000
+tt0790724,Jack Reacher, David Oyelowo,Action,USA,English,Paramount Pictures,PG-13,130,2012,7,Book,15.305,6.4,4100,218340595
+tt0251127,How to Lose a Guy in 10 Days, Annie Parisse,Comedy,"USA,Germany",English,Paramount Pictures,PG-13,116,2003,6.4,Book,12.524,6.6,1758,177371441
+tt0180734,Hardball, Bryan Hearne,Drama,"USA,Germany","English,German",Paramount Pictures,PG-13,106,2001,6.4,Book,5.844,6.4,234,40222729
+tt0327162,The Stepford Wives, Glenn Close,Comedy,USA,English,Paramount Pictures,PG-13,93,2004,5.2,Book,10.951,5.6,646,102000000
+tt1293847,xXx: Return of Xander Cage, Kris Wu,Action,"USA,China,Canada","English,Mandarin,Spanish",Paramount Pictures,PG-13,107,2017,5.2,characters,22.313,5.6,2415,346147658
+tt1291150,Teenage Mutant Ninja Turtles, Alan Ritchson,Action,USA,English,Paramount Pictures,PG-13,101,2014,5.8,characters,31.735,5.8,4192,477200000
+tt0101272,The Addams Family, Dan Hedaya,Comedy,USA,"English,Italian,French",Paramount Pictures,PG-13,99,1991,6.9,characters,13.689,6.9,2019,191502426
+tt1219827,Ghost in the Shell, Juliette Binoche,Action,"UK,China,India,USA","English,Japanese",Paramount Pictures,PG-13,107,2017,6.4,Comic,16.758,6,5056,169801921
+tt0109830,Forrest Gump, Michael Conner Humphreys,Drama,USA,English,Paramount Pictures,PG-13,142,1994,8.8,Novel,27.306,8.4,14516,677945399
+tt0469641,World Trade Center, Anthony Piccininni,Drama,USA,English,Paramount Pictures,PG-13,129,2006,6,Original story ,8.357,6,764,162945894
+tt0325703,Lara Croft Tomb Raider: The Cradle of Life, Chris Barrie,Action,"USA,Germany,Japan,UK","English,German,Japanese",Paramount Pictures,PG-13,117,2003,5.5,Screenplay,16.603,5.7,2470,156505388
+tt0408985,Last Holiday, Giancarlo Esposito,Comedy,USA,"English,French",Paramount Pictures,PG-13,112,2006,6.4,Screenplay,7.563,6.6,260,38399961
+tt0435705,Next, Thomas Kretschmann,Action,USA,"English,French,German",Paramount Pictures,PG-13,96,2007,6.2,Screenplay,11.835,5.9,1491,76066841
+tt2671706,Fences, Jovan Adepo,Drama,"USA,Canada",English,Paramount Pictures,PG-13,139,2016,7.2,Screenplay,10.521,6.8,1445,64414761
+tt0398165,The Longest Yard, Nelly,Comedy,USA,English,Paramount Pictures,PG-13,113,2005,6.4,story,11.145,6.4,1529,190320568
+tt0267626,K-19: The Widowmaker, Roman Podhora,Drama,"UK,Germany,USA,Canada","English,German",Paramount Pictures,PG-13,138,2002,6.7,story,12.576,6.4,452,35168966
+tt0249478,Domestic Disturbance, Debra Mooney,Crime,USA,English,Paramount Pictures,PG-13,89,2001,5.5,story,7.615,5.6,180,54249294
+tt0253754,Star Trek: Nemesis, LeVar Burton,Action,USA,English,Paramount Pictures,PG-13,116,2002,6.4,television series,13.818,6.2,706,67312826
+tt2473682,Paranormal Activity: The Marked Ones, Renee Victor,Horror,USA,"English,Spanish",Paramount Pictures,R,84,2014,5,Movie,28.724,5.2,737,86362372
+tt0368008,The Manchurian Candidate, Dorian Missick,Drama,USA,English,Paramount Pictures,R,129,2004,6.6,Novel,10.891,6.3,696,96105964
+tt0144214,The General's Daughter, Timothy Hutton,Crime,"USA,Germany",English,Paramount Pictures,R,116,1999,6.3,Novel,27.17,6.2,367,149705852
+tt0120784,Payback, David Paymer,Action,USA,English,Paramount Pictures,R,100,1999,7.1,Novel,13.429,6.7,841,161626121
+tt1411238,No Strings Attached, Cary Elwes,Comedy,USA,English,Paramount Pictures,R,108,2011,6.2,Screenplay,15.344,6.2,2549,147780440
+tt0085407,The Dead Zone, Herbert Lom,Horror,"USA,Canada",English,Paramount Pictures,R,103,1983,7.2,Screenplay,9.967,7,585,20766616
+tt1711525,Office Christmas Party, Jennifer Aniston,Comedy,USA,English,Paramount Pictures,R,105,2016,5.8,Screenplay,8.7,5.6,1166,114501299
+tt0118771,Breakdown, M.C. Gainey,Action,USA,English,Paramount Pictures,R,93,1997,6.9,story,24.409,6.6,348,50159144
+tt0227445,The Score, Angela Bassett,Crime,"USA,Germany","English,French",Paramount Pictures,R,124,2001,6.8,story,10.181,6.7,735,113579918
+tt0082782,My Bloody Valentine, Keith Knight,Horror,Canada,English,Paramount Pictures,R,90,1981,6.2,story,7.059,6.3,136,5672031
+tt0063356,No Way to Treat a Lady, Eileen Heckart,Comedy,USA,English,Paramount Pictures,NOT RATED,108,1968,7.1,Screenplay,2.157,6.6,15,3100000
+tt1230168,Same Kind of Different as Me, Jon Voight,Drama,USA,English,Paramount Pictures / Pure Flix,PG-13,119,2017,6.3,Screenplay,8.466,6.8,103,6423381
+tt1446192,Rise of the Guardians, Isla Fisher,Animation,USA,"English,French",Paramount Studios,PG,97,2012,7.3,Screenplay,16.249,7.3,3635,306941670
+tt0970179,Hugo, Chloë Grace Moretz,Adventure,USA,English,Paramount Studios,PG,126,2011,7.5,Screenplay,12.231,7.1,4038,185770160
+tt0419887,The Kite Runner, Sayed Jafar Masihullah Gharibzada,Drama,"USA,China",English,Paramount Vantage,PG-13,128,2007,7.6,Screenplay,8.904,7.3,694,73276047
+tt0959337,Revolutionary Road, Jonathan Roumie,Drama,"USA,UK",English,Paramount Vantage,R,119,2008,7.3,Screenplay,11.661,6.9,1757,75225693
+tt0448694,Puss in Boots, Billy Bob Thornton,Animation,USA,"English,Spanish",Paramount/Dreamworks,PG,90,2011,6.7,Screenplay,10.494,6.3,1380,554987477
+tt4535650,Dilwale, Kriti Sanon,Action,India,Hindi,Red Chillies Entertainment,NOT RATED,158,2015,5.3,Screenplay,6.637,6.3,116,61000000
+tt1667353,Mirror Mirror, Nathan Lane,Adventure,"USA,Canada",English,Relativity Media,PG,106,2012,5.6,Screenplay,19.121,5.8,2055,183018522
+tt1547230,Judy Moody and the Not Bummer Summer, Kristoffer Ryan Winters,Comedy,USA,English,Relativity Media,PG,91,2011,4.2,Screenplay,2.015,4.9,26,14166853
+tt1219289,Limitless, Andrew Howard,Mystery,USA,"English,Italian,Mandarin,French",Relativity Media,PG-13,105,2011,7.4,Screenplay,14.658,7.1,6184,161849455
+tt2461150,Masterminds, Ross Kimball,Action,USA,"English,Spanish",Relativity Media,PG-13,95,2016,5.8,Screenplay,9.443,5.7,1056,29200000
+tt1972779,The Best of Me, Liana Liberato,Drama,USA,English,Relativity Media,PG-13,118,2014,6.7,Screenplay,8.571,7.3,1486,35926213
+tt1713476,The Bay, Frank Deal,Horror,USA,English,Roadside Attraction,R,84,2012,5.6,Screenplay,5.915,5.5,338,30668
+tt0480239,Atlas Shrugged: Part I, Edi Gathegi,Drama,USA,English,Rocky Mountain Pictures,PG-13,97,2011,5.7,Screenplay,6.192,5.2,87,4627375
+tt0455960,The Hitcher, Neal McDonough,Action,USA,English,Rogue Pictures (Focus),R,84,2007,5.6,Screenplay,26.763,5.7,422,25399945
+tt1990314,Robot & Frank, Peter Sarsgaard,Comedy,USA,English,Samuel Goldwyn Films,PG-13,89,2012,7.1,Screenplay,5.831,6.9,616,3325038
+tt3716530,Elle, Charles Berling,Crime,"France,Germany,Belgium",French,SBS Productions,R,130,2016,7.2,Novel,10.307,6.7,975,2341534
+tt0455857,When a Stranger Calls, Tessa Thompson,Crime,USA,English,Screen Gems,PG-13,87,2006,5.1,Screenplay,21.979,5.5,519,66966987
+tt0775539,Stomp the Yard, Darrin Dewitt Henson,Drama,USA,English,Screen Gems,PG-13,109,2007,5.3,Screenplay,8.444,6.3,164,75511123
+tt0425601,Trailer Park Boys: The Movie, Lucy Decoutere,Comedy,Canada,English,Screen Media Films,R,95,2006,7.3,Screenplay,5.858,6.9,70,3833507
+tt0100477,The Rescuers Down Under, Tristan Rogers,Animation,USA,English,Silver Screen Partners IV,G,77,1990,6.9,Animation,2.338,6.6,579,47431461
+tt0473444,Curse of the Golden Flower, Ye Liu,Action,China,Mandarin,Sony Classic Pictures,R,114,2006,7,play,30.184,6.7,345,78568977
+tt4257926,Miracles from Heaven, Brighton Sharbino,Biography,USA,English,Sony Pictures,PG,109,2016,7.1,Book,9.268,7.1,462,73983359
+tt1051904,Goosebumps, Ryan Lee,Adventure,"USA,Australia",English,Sony Pictures,PG,103,2015,6.3,Screenplay,29.439,6.2,2090,158162788
+tt0423294,Surf's Up, Jon Heder,Animation,USA,English,Sony Pictures,PG,85,2007,6.7,Screenplay,10.646,6.1,1199,149044513
+tt3322364,Concussion, Gugu Mbatha-Raw,Biography,"UK,Australia,USA",English,Sony Pictures,PG-13,123,2015,7.1,Book,11.527,7.1,1421,50363790
+tt2191701,Grown Ups 2, David Spade,Comedy,USA,"English,Spanish",Sony Pictures,PG-13,101,2013,5.4,characters,13.685,5.9,2049,246984278
+tt1535109,Captain Phillips, Barkhad Abdirahman,Biography,USA,English,Sony Pictures,PG-13,134,2013,7.8,Screenplay,15.966,7.6,3857,95000000
+tt1640484,Jumping the Broom, Loretta Devine,Comedy,USA,English,Sony Pictures,PG-13,112,2011,5.7,Screenplay,9.554,6.1,96,37710610
+tt2120120,Pixels, Peter Dinklage,Action,"USA,China,Canada","English,Hindi,Japanese,English",Sony Pictures,PG-13,105,2015,5.6,Screenplay,17.63,5.6,4372,243637091
+tt0259324,Ghost Rider, Peter Fonda,Action,"USA,Australia",English,Sony Pictures,PG-13,114,2007,5.2,Screenplay,16.173,5.4,3164,228738393
+tt1872181,The Amazing Spider-Man 2, Dane DeHaan,Action,USA,English,Sony Pictures,PG-13,142,2014,6.7,Screenplay,26.239,6.4,7084,705717432
+tt0382625,The Da Vinci Code, Jean Reno,Mystery,"USA,France,UK","English,French,Spanish",Sony Pictures,PG-13,149,2006,6.6,Screenplay,17.841,6.6,5020,767820459
+tt1606389,The Vow, Sam Neill,Drama,"USA,France,Australia,UK,Germany,Canada",English,Sony Pictures,PG-13,104,2012,6.8,Screenplay,13.773,7.1,2367,196114570
+tt3862750,The Perfect Guy, L. Scott Caldwell,Drama,USA,English,Sony Pictures,PG-13,100,2015,5.6,story,6.211,5.7,209,60273173
+tt2513074,Billy Lynn's Long Halftime Walk, Mason Lee,Drama,"UK,China,USA",English,Sony Pictures,R,113,2016,6.3,Novel,7.502,5.9,304,30930984
+tt1124035,The Ides of March, Paul Giamatti,Drama,USA,English,Sony Pictures,R,101,2011,7.1,Screenplay,9.639,6.7,1388,75993061
+tt1956620,Sex Tape, Ellie Kemper,Comedy,USA,English,Sony Pictures,R,94,2014,5.1,Screenplay,22.369,5.3,2644,126069509
+tt0455944,The Equalizer, David Harbour,Action,USA,"English,Spanish",Sony Pictures,R,132,2014,7.2,television series,26.238,7.2,4883,192330738
+tt4877122,The Emoji Movie, Maya Rudolph,Animation,USA,English,Sony Pictures Animation,PG,86,2017,3,Screenplay,40.023,5.4,1416,216909830
+tt0432291,The Fog, DeRay Davis,Horror,USA,English,Sony Pictures Classics,PG-13,100,2005,3.6,Screenplay,9.267,4.1,324,46
+tt0857265,Sleuth, Harold Pinter,Drama,"UK,USA",English,Sony Pictures Classics,R,88,2007,6.5,Adaptation,24.476,6.4,261,342835
+tt0183659,Pollock, Marcia Gay Harden,Biography,USA,English,Sony Pictures Classics,R,122,2000,7,Book,6.4,6.8,142,8
+tt0318761,Thumbsucker, Arvin V. Entena,Comedy,USA,English,Sony Pictures Classics,R,96,2005,6.6,Novel,7.545,6.4,115,1919197
+tt0379725,Capote, Craig Archibald,Biography,"USA,Canada",English,Sony Pictures Classics,R,114,2005,7.4,Screenplay,7.733,7,684,49084830
+tt0117008,Matilda, Embeth Davidtz,Comedy,USA,English,Sony Pictures Home Entertainment,PG,102,1996,6.9,Book,11.426,7.1,2038,33459416
+tt0110657,The Next Karate Kid, Constance Towers,Action,USA,English,Sony Pictures Home Entertainment,PG,107,1994,4.4,characters,8.705,5.1,402,15826984
+tt0113497,Jumanji, Bradley Pierce,Adventure,USA,"English,French",Sony Pictures Home Entertainment,PG,104,1995,6.9,Screenplay,4.896,7.2,5856,262797249
+tt0105265,A River Runs Through It, Brenda Blethyn,Drama,USA,English,Sony Pictures Home Entertainment,PG,123,1992,7.3,story,23.952,7.2,432,43440294
+tt0102782,Return to the Blue Lagoon, Courtney Barilla,Adventure,USA,English,Sony Pictures Home Entertainment,PG-13,102,1991,5.1,Book,11.86,5.6,323,2807854
+tt0103976,City of Joy, Shabana Azmi,Drama,"France,UK",English,Sony Pictures Home Entertainment,PG-13,132,1992,6.4,Book,3.93,6.5,62,14683921
+tt0109439,City Slickers II: The Legend of Curly's Gold, Jack Palance,Comedy,USA,English,Sony Pictures Home Entertainment,PG-13,116,1994,5.5,characters,8.662,5,154,43
+tt0105824,Wind, Jack Thompson,Action,"USA,Japan",English,Sony Pictures Home Entertainment,PG-13,126,1992,6.5,story,2.498,6.5,11,5519569
+tt0113071,First Knight, Ben Cross,Action,"USA,UK",English,Sony Pictures Home Entertainment,PG-13,134,1995,5.9,story,9.297,6,559,127600435
+tt0090660,Armed and Dangerous, Kenneth McMillan,Action,USA,English,Sony Pictures Home Entertainment,PG-13,88,1986,5.6,story,5.863,5.5,69,15945534
+tt0117765,Striptease, Ving Rhames,Comedy,USA,English,Sony Pictures Home Entertainment,R,115,1996,4.3,Book,25.624,4.7,351,113309743
+tt0120201,Starship Troopers, Jake Busey,Action,USA,English,Sony Pictures Home Entertainment,R,129,1997,7.2,Screenplay,16.559,6.8,2414,121214377
+tt0113613,The Last Supper, Jonathan Penner,Comedy,USA,English,Sony Pictures Home Entertainment,R,92,1995,6.8,Screenplay,9.294,6.8,127,442965
+tt0112442,Bad Boys, Michael Taliferro,Action,USA,English,Sony Pictures Home Entertainment,R,119,1995,6.8,story,17.44,6.6,2879,141407024
+tt0109327,Brainscan, Amy Hargreaves,Comedy,"Canada,USA,UK",English,Sony Pictures Home Entertainment,R,96,1994,6.1,story,8.117,6,97,4352094
+tt0320691,Underworld, Shane Brolly,Action,"USA,UK,Germany",English,Sony Screen Gems,R,121,2003,7,story,14.624,6.7,3801,95708457
+tt0401855,Underworld: Evolution, Derek Jacobi,Action,"USA,Canada","English,Mandarin",Sony/Screen Gems,R,106,2006,6.7,Screenplay,10.804,6.4,2313,111340801
+tt0320244,Party Monster, Dillon Woolley,Biography,USA,English,Strand Releasing,R,98,2003,6.3,Book,6.117,6.2,90,742898
+tt3666024,The Red Turtle, Axel Devillers,Animation,"France,Belgium,Japan","French,English,Japanese",Studio Ghibli,PG,80,2016,7.6,story,9.499,7.6,547,921974
+tt1741273,Secret in Their Eyes, Dean Norris,Crime,"USA,UK,Spain",English,STX Entertainment,PG-13,111,2015,6.3,Screenplay,28.573,6.3,683,34854990
+tt1124037,Free State of Jones, Keri Russell,Action,USA,English,STX Entertainment,R,139,2016,6.9,Screenplay,34.503,6.6,773,25035950
+tt4209788,Molly's Game, Michael Cera,Biography,"China,USA,Canada",English,STXfilms,R,140,2017,7.6,Screenplay,16.439,7.1,1678,59284015
+tt1554091,A Better Life, José Julián,Drama,USA,"English,Spanish",Summit Entertainment,PG-13,98,2011,7.2,Screenplay,4.537,7.1,95,1759252
+tt1509767,The Three Musketeers, Christian Oliver,Action,"Germany,France,UK,USA",English,Summit Entertainment,PG-13,110,2011,5.8,Screenplay,12.043,5.7,1564,132274484
+tt1658801,Freeheld, Steve Carell,Biography,USA,English,Summit Entertainment,PG-13,103,2015,6.5,Screenplay,8.708,7.4,350,573335
+tt1135985,Sex Drive, James Marsden,Adventure,USA,English,Summit Entertainment,R,109,2008,6.5,Screenplay,11.825,6.1,558,18755936
+tt2119532,Hacksaw Ridge, Milo Gibson,Biography,"Australia,USA","English,Japanese",Summit Entertainment,R,139,2016,8.2,Screenplay,20.065,8.1,6495,175302354
+tt1587729,71: Into the Fire, Seung-woo Kim,Action,USA,English,Taewon Entertainment,NOT RATED,120,2010,7.4,Screenplay,4.856,7,59,20967660
+tt4853102,Batman: The Killing Joke, Ray Wise,Animation,USA,English,The Answer Studio,R,76,2016,6.5,Novel,30.649,6.3,861,3775000
+tt1441951,Quartet, Pauline Collins,Comedy,UK,"English,Italian,French",The Weinstein Co.,PG-13,94,2012,6.8,play,8.021,6.6,207,59520298
+tt1714203,Piranha 3DD, Jean-Luc Bilodeau,Comedy,USA,English,The Weinstein Co.,R,83,2012,3.8,characters,26.727,4.2,498,8493728
+tt0900387,Suite Française, Eric Godon,Drama,"UK,France,Canada,Belgium,USA","English,German,French",The Weinstein Company,NOT RATED,107,2014,6.9,Screenplay,6.52,7.4,654,9104716
+tt1109624,Paddington, Geoffrey Palmer,Animation,"UK,France,USA",English,The Weinstein Company,PG,95,2014,7.2,Screenplay,12.03,7,1880,259207227
+tt2431286,Philomena, Mare Winningham,Biography,"UK,USA,France",English,The Weinstein Company,PG-13,98,2013,7.6,Screenplay,12.095,7.4,932,100129872
+tt2707858,Yves Saint Laurent, Laura Smet,Biography,"France,Belgium","French,English,Japanese",The Weinstein Company,R,106,2014,6.2,Screenplay,6.59,6.7,456,21026290
+tt2884018,Macbeth, Marion Cotillard,Drama,"UK,France,USA",English,The Weinstein Company,R,113,2015,6.7,Screenplay,10.034,6.5,849,12601706
+tt0491203,Tulip Fever, Holliday Grainger,Drama,"UK,USA",English,The Weinstein Company,R,105,2017,6.2,Screenplay,8.031,6.4,299,3425664
+tt1780762,Aftershock, Natasha Yarovenko,Action,USA,"Spanish,English",The Weinstein Company,R,89,2012,4.8,story,6.926,5.2,168,58510
+tt0102603,Oscar, Paul Greco,Comedy,USA,"English,Italian",Touchstone Pictures,PG,109,1991,6.4,play,8.788,6.3,225,23562716
+tt0120032,Romy and Michele's High School Reunion, Alan Cumming,Comedy,USA,English,Touchstone Pictures,R,92,1997,6.2,play,27.167,6.1,251,29235353
+tt2024519,The Broken Circle Breakdown, Geert Van Rampelberg,Drama,Belgium,"English,Dutch",Tribeca Film,NOT RATED,111,2012,7.8,play,5.851,7.8,579,5475058
+tt0112922,The Day of the Beast, Terele Pávez,Action,Spain,"Spanish,Italian",Trimark Pictures,R,99,1995,7.5,Screenplay,6.42,7.2,200,4367497
+tt0102057,Hook, Bob Hoskins,Adventure,USA,English,TriStar Pictures,PG,142,1991,6.7,Book,13.444,6.8,2880,300854823
+tt0118665,Baby Geniuses, Peter MacNicol,Comedy,USA,English,TriStar Pictures,PG,97,1999,2.6,story,8.376,3.7,157,36450736
+tt0108160,Sleepless in Seattle, Victor Garber,Comedy,USA,English,TriStar Pictures,PG,105,1993,6.8,story,10.126,6.7,1094,227799884
+tt0111686,New Nightmare, Matt Winston,Fantasy,USA,English,Turner Home Entertainment,R,112,1994,6.4,characters,29.163,6.4,552,18090181
+tt0086190,Star Wars: Episode VI - Return of the Jedi, Billy Dee Williams,Action,USA,English,Twentieth Century Fox,PG,131,1983,8.3,Screenplay,25.414,8,7963,572700000
+tt0119896,Picture Perfect, Olympia Dukakis,Comedy,USA,English,Twentieth Century Fox Home Entertainment,PG-13,105,1997,5.5,story,8.785,5.2,186,44332015
+tt0120620,Brokedown Palace, Jacqueline Kim,Drama,USA,English,Twentieth Century Fox Home Entertainment,PG-13,100,1999,6.4,story,7.303,6.4,177,13000000
+tt0093407,Less Than Zero, James Spader,Crime,USA,"English,Spanish",Twentieth Century Fox Home Entertainment,R,98,1987,6.4,Novel,7.239,6.4,137,12396383
+tt0104691,The Last of the Mohicans, Eric Schweig,Action,USA,"English,French",Twentieth Century Fox Home Entertainment,R,112,1992,7.8,Novel,10.583,7.3,1354,75505856
+tt0105699,Unlawful Entry, Roger E. Mosley,Crime,"Japan,USA","English,Spanish",Twentieth Century Fox Home Entertainment,R,117,1992,6.3,story,8.813,6,105,57138719
+tt0044706,High Noon, Katy Jurado,Action,USA,"English,Spanish",United Artists,PG,85,1952,8,Screenplay,10.962,7.7,607,8000000
+tt4196776,Jason Bourne, Vincent Cassel,Action,"UK,China,USA","English,German,Japanese",Universal,PG-13,123,2016,6.6,characters,15.112,6.1,3557,415484914
+tt1121096,Seventh Son, Alicia Vikander,Action,"USA,UK,Canada,China",English,Universal,PG-13,102,2014,5.5,Screenplay,20.634,5.3,1533,114178613
+tt1411250,Riddick, Katee Sackhoff,Action,USA,English,Universal Classics,R,119,2013,6.4,characters,16.482,6.2,2820,98337295
+tt0841027,Magicians, Paul Mark Elliott,Comedy,UK,English,Universal Pictures,NOT RATED,90,2007,6,story,2.532,6.2,38,1752038
+tt0158622,The Flintstones in Viva Rock Vegas, Jane Krakowski,Comedy,USA,English,Universal Pictures,PG,90,2000,3.6,Animation ,7.257,4.5,318,59468275
+tt0119640,McHale's Navy, David Alan Grier,Action,USA,English,Universal Pictures,PG,108,1997,4.4,story,2.718,4.3,37,4529843
+tt2848292,Pitch Perfect 2, Brittany Snow,Comedy,USA,"English,German",Universal Pictures,PG-13,115,2015,6.4,Book,16.196,6.9,3538,287506194
+tt0296572,The Chronicles of Riddick, Judi Dench,Action,USA,English,Universal Pictures,PG-13,119,2004,6.7,characters,8.878,6.4,2290,115772733
+tt1013752,Fast & Furious, Michelle Rodriguez,Action,USA,"English,Spanish",Universal Pictures,PG-13,107,2009,6.6,characters,2.595,6.6,3809,363164265
+tt0119567,The Lost World: Jurassic Park, Arliss Howard,Action,USA,"English,Spanish",Universal Pictures,PG-13,129,1997,6.5,Novel,0.895,6.4,4329,618638999
+tt0120616,The Mummy, Arnold Vosloo,Action,USA,"English,Chinese",Universal Pictures,PG-13,124,1999,7,Screenplay,22.692,6.7,4850,415885488
+tt0384793,Accepted, Columbus Short,Comedy,USA,English,Universal Pictures,PG-13,93,2006,6.5,Screenplay,8.32,6.3,734,38505009
+tt1335975,47 Ronin, Tadanobu Asano,Action,USA,"English,Japanese",Universal Pictures,PG-13,128,2013,6.3,Screenplay,16.057,6,2039,150962475
+tt0446029,Scott Pilgrim vs. the World, Johnny Simmons,Action,"USA,UK,Canada,Japan",English,Universal Pictures,PG-13,112,2010,7.5,Screenplay,16.07,7.3,3818,47664559
+tt2034800,The Great Wall, Andy Lau,Action,"USA,China,Australia,Canada","English,Mandarin,Spanish",Universal Pictures,PG-13,103,2016,6,Screenplay,15.673,5.8,2722,331957105
+tt0471042,Tower Heist, Alan Alda,Action,USA,"English,Spanish,Chinese",Universal Pictures,PG-13,104,2011,6.2,story,10.149,5.9,1571,152930623
+tt2023587,Mama, Isabelle Nélisse,Horror,"Canada,Spain",English,Universal Pictures,PG-13,100,2013,6.2,story,10.52,6.1,2385,146497771
+tt0138524,Intolerable Cruelty, Cedric the Entertainer,Comedy,USA,"English,French",Universal Pictures,PG-13,100,2003,6.3,story,11.161,5.8,681,119940815
+tt0259288,Dragonfly, Ron Rifkin,Drama,"USA,Germany","English,Spanish",Universal Pictures,PG-13,104,2002,6.1,story,32.141,6.5,370,52322400
+tt0277296,The Scorpion King, Kelly Hu,Action,"USA,Germany,Belgium",English,Universal Pictures,PG-13,92,2002,5.5,story,18.314,5.4,1603,165333180
+tt0112641,Casino, James Woods,Crime,"France,USA",English,Universal Pictures,R,178,1995,8.2,Book,13.227,7.9,2395,116112375
+tt2083355,The Best Man Holiday, Taye Diggs,Comedy,USA,English,Universal Pictures,R,123,2013,6.7,characters,7.694,6.6,144,71625195
+tt0114746,Twelve Monkeys, Michael Chance,Mystery,USA,"English,French",Universal Pictures,R,129,1995,8,Movie,15.783,7.5,4265,168840000
+tt0472062,Charlie Wilson's War, Philip Seymour Hoffman,Biography,"USA,Germany","English,German",Universal Pictures,R,102,2007,7.1,Screenplay,7.31,6.6,599,119000410
+tt1398426,Straight Outta Compton, Neil Brown Jr.,Biography,USA,English,Universal Pictures,R,147,2015,7.9,Screenplay,9.836,7.7,2024,201634991
+tt0455760,Dead Silence, Michael Fairman,Fantasy,USA,English,Universal Pictures,R,89,2007,6.2,Screenplay,12.583,6.3,963,22217407
+tt0870111,Frost/Nixon, Kevin Bacon,Biography,"USA,UK,France",English,Universal Pictures,R,122,2008,7.7,Screenplay,9.153,7.4,575,18593156
+tt0084787,The Thing, David Clennon,Horror,USA,English,Universal Pictures,R,109,1982,8.1,Screenplay,18.627,8,2999,19629760
+tt0881320,Sanctum, Alice Parkinson,Adventure,"USA,Australia",English,Universal Pictures,R,108,2011,5.9,story,7.78,5.9,510,108609310
+tt0266987,Spy Game, Stephen Dillane,Action,"Germany,USA,Japan,France","English,German,French",Universal Pictures,R,126,2001,7.1,story,14.499,6.9,983,143049560
+tt0365907,A Walk Among the Tombstones, Luciano Acuna Jr.,Crime,USA,"English,Spanish",Universal Studios,R,114,2014,6.5,Novel,20.109,6.3,1657,53181600
+tt0134154,Ride with the Devil, Skeet Ulrich,Drama,USA,English,Universal Studios,R,138,1999,6.8,Novel,8.419,6.6,82,635096
+tt1152836,Public Enemies, Johnny Depp,Biography,"USA,Japan",English,Universal Studios,R,140,2009,7,Screenplay,15.571,6.6,2265,214104620
+tt1053424,Repo Men, Liev Schreiber,Action,"USA,Canada","English,Spanish",Universal Studios,R,111,2010,6.3,Screenplay,14.859,6.2,962,18409891
+tt1447508,Peepli (Live), Farrukh Jaffar,Comedy,India,"Hindi,English",UTV Communications,NOT RATED,95,2010,7.5,Poem,1.214,7.6,29,6900000
+tt2372222,Kick, Randeep Hooda,Action,India,Hindi,UTV Communications,NOT RATED,146,2014,5.4,story,4.158,6,68,55000000
+tt0095488,The Lair of the White Worm, Peter Capaldi,Comedy,UK,English,Vestron Video,R,93,1988,5.9,Screenplay,7.222,5.8,87,1189315
+tt0847897,The Stone Angel, Judy Marshak,Drama,"Canada,UK",English,Vivendi Entertainment,R,116,2007,6.3,Novel,2.838,5.7,11,473993
+tt1204342,The Muppets, Rashida Jones,Adventure,USA,English,Walt Disney Pictures,PG,103,2011,7.1,characters,11.375,6.6,815,165184237
+tt1691917,Planes, Teri Hatcher,Animation,USA,"English,Spanish",Walt Disney Pictures,PG,91,2013,5.7,Original story ,34.399,5.8,860,219788712
+tt2097298,"McFarland, USA", Johnny Ortiz,Biography,USA,"English,Spanish",Walt Disney Pictures,PG,129,2015,7.4,Screenplay,25.29,7.3,353,45710059
+tt1462769,The Odd Life of Timothy Green, Odeya Rush,Comedy,USA,English,Walt Disney Pictures,PG,105,2012,6.6,Screenplay,24.962,6.7,599,51854875
+tt2567026,Alice Through the Looking Glass, Anne Hathaway,Adventure,"USA,UK",English,Walt Disney Pictures,PG,113,2016,6.2,Screenplay,13.491,6.5,3733,299370084
+tt1014759,Alice in Wonderland, Anne Hathaway,Adventure,USA,English,Walt Disney Pictures,PG,108,2010,6.5,Screenplay,24.574,6.6,8554,1025491110
+tt1661199,Cinderella, Helena Bonham Carter,Drama,"USA,UK",English,Walt Disney Pictures,PG,105,2015,6.9,Screenplay,26.753,6.7,4437,543514353
+tt2980706,Planes: Fire & Rescue, Curtis Armstrong,Animation,USA,English,Walt Disney Pictures,PG,83,2014,6,story ,9.5,6,414,151165787
+tt2395427,Avengers: Age of Ultron, Chris Evans,Action,USA,English,Walt Disney Pictures,PG-13,141,2015,7.4,Comic,85.677,7.3,13109,1405403694
+tt0401729,John Carter, Willem Dafoe,Action,USA,English,Walt Disney Pictures,PG-13,132,2012,6.6,Screenplay,21.738,6.1,3276,284139100
+tt1981115,Thor: The Dark World, Anthony Hopkins,Action,USA,English,Walt Disney Pictures,PG-13,112,2013,7,Screenplay,48.516,6.7,9919,644571402
+tt0963966,The Sorcerer's Apprentice, Teresa Palmer,Action,USA,English,Walt Disney Studios,PG,109,2010,6.1,Screenplay,13.959,5.9,2820,215283742
+tt4341582,Queen of Katwe, Martin Kabanza,Biography,USA,English,Walt Disney Studios,PG,124,2016,7.4,Screenplay,9.01,7.1,222,10367161
+tt0061512,Cool Hand Luke, Lou Antonio,Crime,USA,English,Warner Bros.,G,126,1967,8.2,Screenplay,15.355,7.8,630,16217773
+tt0327247,The Whole Ten Yards, Kevin Pollak,Comedy,USA,English,Warner Bros.,PG-13,98,2004,5.5,characters,11.898,5.6,453,26155781
+tt0800320,Clash of the Titans, Jason Flemyng,Action,USA,English,Warner Bros.,PG-13,106,2010,5.8,Screenplay,16.275,5.7,3650,232713139
+tt0903624,The Hobbit: An Unexpected Journey, Ken Stott,Adventure,USA,English,Warner Bros.,PG-13,169,2012,7.9,Screenplay,10.66,7,560,25566770
+tt1351685,Jack the Giant Slayer, Stanley Tucci,Adventure,USA,English,Warner Bros.,PG-13,114,2013,6.3,Screenplay,12.516,5.6,3358,197687603
+tt0099685,Goodfellas, Lorraine Bracco,Biography,USA,"English,Italian",Warner Bros.,R,146,1990,8.7,Book,21.292,8.4,5496,46836394
+tt0102138,JFK, Steve Reed,Drama,"France,USA","English,Spanish",Warner Bros.,R,189,1991,8,Screenplay,13.056,7.7,888,205405498
+tt0093058,Full Metal Jacket, R. Lee Ermey,Drama,"UK,USA",English,Warner Bros.,R,116,1987,8.3,Screenplay,16.561,8.1,5076,46357676
+tt0048028,East of Eden, Burl Ives,Drama,USA,English,Warner Bros. Pictures,PG,118,1955,8,Novel,6.941,7.7,300,5
+tt0286788,What a Girl Wants, Eileen Atkins,Comedy,USA,English,Warner Bros. Pictures,PG,105,2003,5.8,play,9.517,6,801,50700000
+tt0032138,The Wizard of Oz, Bert Lahr,Adventure,USA,English,Warner Bros. Pictures,PG,102,1939,8.1,Screenplay,15.144,7.5,2892,33754967
+tt0817177,Flipped, Anthony Edwards,Comedy,USA,English,Warner Bros. Pictures,PG,90,2010,7.7,Screenplay,10.293,7.4,844,1755212
+tt0426931,August Rush, Terrence Howard,Drama,USA,English,Warner Bros. Pictures,PG,114,2007,7.5,Screenplay,9.956,7.3,1534,66122026
+tt0386117,Where the Wild Things Are, Madeleine Greaves,Adventure,"Germany,Australia,USA",English,Warner Bros. Pictures,PG,101,2009,6.8,Screenplay,9.563,6.4,952,100086793
+tt4116284,The LEGO Batman Movie, Ralph Fiennes,Animation,USA,English,Warner Bros. Pictures,PG,104,2017,7.3,Screenplay,16.516,7.2,2842,311950384
+tt3014284,The Lego Ninjago Movie, Kumail Nanjiani,Animation,USA,English,Warner Bros. Pictures,PG,101,2017,6,Screenplay,11.728,6.3,410,123081555
+tt0129167,The Iron Giant, James Gammon,Animation,USA,English,Warner Bros. Pictures,PG,86,1999,8,Screenplay,15.351,7.8,2738,23159305
+tt0106965,Free Willy, August Schellenberg,Adventure,"USA,France",English,Warner Bros. Pictures,PG,112,1993,5.9,story,11.854,6,817,153698625
+tt0327554,Catwoman, Lambert Wilson,Action,USA,"English,Spanish",Warner Bros. Pictures,PG-13,104,2004,3.3,characters,13.931,4.4,1681,82102379
+tt0425061,Get Smart, Alan Arkin,Action,USA,English,Warner Bros. Pictures,PG-13,110,2008,6.5,characters,14.49,6.1,1818,230685453
+tt1515091,Sherlock Holmes: A Game of Shadows, Rachel McAdams,Action,USA,"English,French,Italian,German",Warner Bros. Pictures,PG-13,129,2011,7.5,characters,17.468,7.1,6290,334615000
+tt0120791,Practical Magic, Dianne Wiest,Comedy,USA,English,Warner Bros. Pictures,PG-13,104,1998,6.2,Novel,10.112,6.5,647,46683377
+tt0377818,The Dukes of Hazzard, Steve Lemme,Action,USA,English,Warner Bros. Pictures,PG-13,104,2005,5.1,Screenplay,10.092,5.2,534,110803676
+tt0185183,Battlefield Earth, Kim Coates,Action,USA,English,Warner Bros. Pictures,PG-13,118,2000,2.4,Screenplay,7.61,3,390,21400000
+tt1075747,Jonah Hex, Michael Fassbender,Action,USA,English,Warner Bros. Pictures,PG-13,81,2010,4.7,Screenplay,11.629,4.6,691,10539000
+tt0926084,Harry Potter and the Deathly Hallows: Part 1, Harry Melling,Adventure,"UK,USA",English,Warner Bros. Pictures,PG-13,146,2010,7.7,Screenplay,32.858,7.7,10582,954305868
+tt1077368,Dark Shadows, Eva Green,Comedy,"USA,Australia",English,Warner Bros. Pictures,PG-13,113,2012,6.2,Screenplay,16.116,5.9,4117,245527149
+tt1345836,The Dark Knight Rises, Joseph Gordon-Levitt,Action,"UK,USA",English,Warner Bros. Pictures,PG-13,164,2012,8.4,Screenplay,30.286,7.7,13728,1084939099
+tt0414993,The Fountain, Mark Margolis,Drama,"USA,Canada",English,Warner Bros. Pictures,PG-13,96,2006,7.3,Screenplay,11.322,6.9,1425,15304890
+tt2006295,The 33, James Brolin,Biography,USA,"English,Spanish",Warner Bros. Pictures,PG-13,127,2015,6.9,Screenplay,9.077,6.2,559,24902723
+tt1327194,The Lucky One, Riley Thomas Stewart,Drama,USA,English,Warner Bros. Pictures,PG-13,101,2012,6.5,Screenplay,13.314,6.9,1957,99357138
+tt1401152,Unknown, Aidan Quinn,Action,"UK,Germany,France,USA","English,German",Warner Bros. Pictures,PG-13,113,2011,6.9,Screenplay,12.27,6.6,2003,130786397
+tt1638355,The Man from U.N.C.L.E., Elizabeth Debicki,Action,"USA,UK","English,Italian",Warner Bros. Pictures,PG-13,116,2015,7.3,Screenplay,10.564,7.1,3481,108145109
+tt0230838,Sweet November, Greg Germann,Drama,USA,English,Warner Bros. Pictures,PG-13,119,2001,6.7,story,8.333,6.6,587,65754228
+tt0284490,Showtime, Zaid Farid,Action,"USA,Australia",English,Warner Bros. Pictures,PG-13,95,2002,5.5,story,9.534,5.3,453,77741732
+tt0132245,Driven, Stacy Edwards,Action,"USA,Canada,Australia",English,Warner Bros. Pictures,PG-13,116,2001,4.5,story,27.856,4.7,315,54744738
+tt1261945,Sex and the City 2, Kim Cattrall,Comedy,USA,English,Warner Bros. Pictures,R,146,2010,4.4,Book,10.665,5.8,784,288347692
+tt1268799,A Very Harold & Kumar 3D Christmas, Austin Bickel,Adventure,USA,English,Warner Bros. Pictures,R,90,2011,6.3,characters,8.129,6,485,35387212
+tt0360486,Constantine, Djimon Hounsou,Drama,"USA,Germany","English,German",Warner Bros. Pictures,R,121,2005,7,Comic,13.839,6.8,3185,230884728
+tt0204313,Exorcist: The Beginning, Remy Sweeney,Horror,USA,English,Warner Bros. Pictures,R,114,2004,5.1,Movie,7.947,4.9,322,78000586
+tt0104802,The Mambo Kings, Ralph Irizarry,Drama,"France,USA","English,Spanish",Warner Bros. Pictures,R,104,1992,6.4,Novel,3.884,6.1,45,6742168
+tt1179056,A Nightmare on Elm Street, Katie Cassidy,Crime,USA,English,Warner Bros. Pictures,R,95,2010,5.2,Screenplay,9.437,5.5,1374,115664037
+tt1292566,How to Be Single, Damon Wayans Jr.,Comedy,USA,English,Warner Bros. Pictures,R,110,2016,6.1,Screenplay,9.87,6.1,2000,112343513
+tt1742044,Jersey Boys, Christopher Walken,Biography,USA,"English,Italian",Warner Bros. Pictures,R,134,2014,6.8,Screenplay,7.035,6.9,373,67347013
+tt0407887,The Departed, Mark Wahlberg,Crime,USA,English,Warner Bros. Pictures,R,151,2006,8.5,Screenplay,18.662,8.1,7720,289847354
+tt0278504,Insomnia, Hilary Swank,Drama,"USA,Canada",English,Warner Bros. Pictures,R,118,2002,7.2,Screenplay,18.601,6.9,2184,113714830
+tt2561572,Get Hard, Alison Brie,Comedy,USA,English,Warner Bros. Pictures,R,100,2015,6,Screenplay,13.234,6,1442,111811453
+tt0444682,The Reaping, AnnaSophia Robb,Horror,USA,"English,Spanish",Warner Bros. Pictures,R,99,2007,5.7,Screenplay,32.473,5.5,375,62771059
+tt1499658,Horrible Bosses, Charlie Day,Comedy,USA,English,Warner Bros. Pictures,R,98,2011,6.9,Screenplay,14.128,6.5,3776,117000000
+tt0085995,National Lampoon's Vacation, Randy Quaid,Adventure,USA,English,Warner Bros. Pictures,R,98,1983,7.4,Screenplay,13.683,7.1,663,61399552
+tt1396484,It, Finn Wolfhard,Drama,"USA,Canada",English,Warner Bros. Pictures,R,135,2017,7.5,Screenplay,21.682,7.2,10732,700381748
+tt3065204,The Conjuring 2, Frances O'Connor,Horror,"Canada,USA",English,Warner Bros. Pictures,R,134,2016,7.4,Screenplay,13.584,7.2,4059,320170008
+tt0102526,New Jack City, Chris Rock,Action,USA,English,Warner Bros. Pictures,R,97,1991,6.6,story,7.869,6.6,209,47624253
+tt0397065,House of Wax, Paris Hilton,Horror,"Australia,USA",English,Warner Bros. Pictures,R,108,2005,5.3,story,10.573,5.7,1315,68766121
+tt3731562,Kong: Skull Island, John C. Reilly,Action,"USA,China,Australia,Canada",English,Warner Bros. Pictures/Legendary Pictures,PG-13,118,2017,6.7,Screenplay,20.272,6.3,5943,566652812
+tt0117038,Michael, Bob Hoskins,Comedy,USA,English,WARNER BROTHERS PICTURES,PG,105,1996,5.7,story,24.563,5.6,283,119718203
+tt0099528,The Exorcist III, Jason Miller,Drama,USA,English,WARNER BROTHERS PICTURES,R,110,1990,6.3,Screenplay,8.936,6,234,39024251
+tt0110442,Major League II, Dennis Haysbert,Comedy,USA,English,Warner Home Video,PG,105,1994,5.5,characters,9.268,5.5,129,30626182
+tt0106701,Dennis the Menace, Christopher Lloyd,Comedy,USA,English,Warner Home Video,PG,94,1993,5.5,characters,9.702,5.6,620,117270765
+tt0100240,The NeverEnding Story II: The Next Chapter, John Wesley Shipp,Adventure,"USA,Germany",English,Warner Home Video,PG,89,1990,5.1,Screenplay,11.374,5.5,343,16283667
+tt0120765,My Giant, Joanna Pacula,Comedy,USA,English,Warner Home Video,PG,103,1998,4.9,story,3.477,5.3,53,7985929
+tt0104850,Memoirs of an Invisible Man, Michael McKean,Comedy,"USA,France",English,Warner Home Video,PG-13,99,1992,5.9,Book,5.935,5.9,218,14358033
+tt0120207,Steel, Richard Roundtree,Action,USA,English,Warner Home Video,PG-13,97,1997,2.8,Comic,6.323,4.1,91,1686429
+tt0103962,Christopher Columbus: The Discovery, Rachel Ward,Adventure,"UK,USA,Spain",English,Warner Home Video,PG-13,120,1992,4.4,story,2.323,4.5,17,8251071
+tt0108330,This Boy's Life, Jonah Blechman,Biography,USA,English,Warner Home Video,R,115,1993,7.3,Book,26.973,7.1,373,4104962
+tt0100594,The Sheltering Sky, Jill Bennett,Adventure,"UK,Italy","English,French",Warner Home Video,R,138,1990,6.8,Book,6.655,6.7,92,2075084
+tt0122151,Lethal Weapon 4, Rene Russo,Action,"USA,China","English,Mandarin",Warner Home Video,R,127,1998,6.6,characters,13.713,6.5,1275,285444603
+tt0094947,Dangerous Liaisons, Swoosie Kurtz,Drama,"USA,UK",English,Warner Home Video,R,119,1988,7.6,play,9.535,7.2,521,34670720
+tt0110148,Interview with the Vampire: The Vampire Chronicles, John McConnell,Drama,USA,"English,French",Warner Home Video,R,123,1994,7.6,Screenplay,14.343,7.3,2744,223664608
+tt0082894,Pennies from Heaven, Vernel Bagneris,Drama,USA,English,Warner Home Video,R,108,1981,6.5,Screenplay,3.106,6.4,41,9171289
+tt0112401,Assassins, Anatoli Davydov,Action,"France,USA","English,Dutch,Spanish",Warner Home Video,R,132,1995,6.3,story,12.573,6.2,651,30303072
+tt0110944,Rapa Nui, Eru Potaka Dewes,Action,USA,English,Warner Home Video,R,107,1994,6.4,story,3.909,6.3,67,305070
+tt0106697,Demolition Man, Nigel Hawthorne,Action,USA,English,Warner Home Video,R,115,1993,6.6,story,14.004,6.5,1647,159055768
+tt0104265,Final Analysis, Eric Roberts,Drama,USA,English,Warner Home Video,R,124,1992,5.8,story,6.659,5.6,108,28590665
+tt0478134,In the Valley of Elah, Susan Sarandon,Crime,USA,English,Warner Independent Pictures,R,121,2007,7.2,Screenplay,8.565,6.7,450,29541790
+tt0427392,The Invasion, Jackson Bond,Sci-Fi,"USA,Australia",English,Warners Bros. Pictures,PG-13,99,2007,5.9,Screenplay,11.096,5.8,672,15071514
